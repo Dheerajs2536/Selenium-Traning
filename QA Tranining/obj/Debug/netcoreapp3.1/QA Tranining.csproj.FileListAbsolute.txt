@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\QA Tranining\QA Tranining\bin\Debug\netcoreapp3.1\QA Tranining.deps.json
+C:\Users\DELL\source\repos\QA Tranining\QA Tranining\bin\Debug\netcoreapp3.1\QA Tranining.dll
+C:\Users\DELL\source\repos\QA Tranining\QA Tranining\bin\Debug\netcoreapp3.1\QA Tranining.pdb
+C:\Users\DELL\source\repos\QA Tranining\QA Tranining\obj\Debug\netcoreapp3.1\QA Tranining.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\QA Tranining\QA Tranining\obj\Debug\netcoreapp3.1\QA Tranining.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\QA Tranining\QA Tranining\obj\Debug\netcoreapp3.1\QA Tranining.AssemblyInfo.cs
+C:\Users\DELL\source\repos\QA Tranining\QA Tranining\obj\Debug\netcoreapp3.1\QA Tranining.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\QA Tranining\QA Tranining\obj\Debug\netcoreapp3.1\QA Tranining.dll
+C:\Users\DELL\source\repos\QA Tranining\QA Tranining\obj\Debug\netcoreapp3.1\QA Tranining.pdb
+C:\Users\DELL\source\repos\QA Tranining\QA Tranining\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\DELL\source\repos\QA Tranining\QA Tranining\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\DELL\source\repos\QA Tranining\QA Tranining\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\DELL\source\repos\QA Tranining\QA Tranining\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\DELL\source\repos\QA Tranining\QA Tranining\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+C:\Users\DELL\source\repos\QA Tranining\QA Tranining\bin\Debug\netcoreapp3.1\testcentric.engine.metadata.dll

@@ -1,0 +1,27 @@
+C:\Users\DELL\source\repos\QA Tranining\QA Tranining\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+C:\Users\DELL\source\repos\QA Tranining\QA Tranining\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+C:\Users\DELL\source\repos\QA Tranining\QA Tranining\bin\Debug\net5.0\nunit.engine.dll
+C:\Users\DELL\source\repos\QA Tranining\QA Tranining\bin\Debug\net5.0\nunit.engine.api.dll
+C:\Users\DELL\source\repos\QA Tranining\QA Tranining\bin\Debug\net5.0\nunit.engine.core.dll
+C:\Users\DELL\source\repos\QA Tranining\QA Tranining\bin\Debug\net5.0\testcentric.engine.metadata.dll
+C:\Users\DELL\source\repos\QA Tranining\QA Tranining\bin\Debug\net5.0\QA Tranining.deps.json
+C:\Users\DELL\source\repos\QA Tranining\QA Tranining\bin\Debug\net5.0\QA Tranining.dll
+C:\Users\DELL\source\repos\QA Tranining\QA Tranining\bin\Debug\net5.0\ref\QA Tranining.dll
+C:\Users\DELL\source\repos\QA Tranining\QA Tranining\bin\Debug\net5.0\QA Tranining.pdb
+C:\Users\DELL\source\repos\QA Tranining\QA Tranining\obj\Debug\net5.0\QA Tranining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\QA Tranining\QA Tranining\obj\Debug\net5.0\QA Tranining.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\QA Tranining\QA Tranining\obj\Debug\net5.0\QA Tranining.AssemblyInfo.cs
+C:\Users\DELL\source\repos\QA Tranining\QA Tranining\obj\Debug\net5.0\QA Tranining.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\QA Tranining\QA Tranining\obj\Debug\net5.0\QA Tranining.dll
+C:\Users\DELL\source\repos\QA Tranining\QA Tranining\obj\Debug\net5.0\ref\QA Tranining.dll
+C:\Users\DELL\source\repos\QA Tranining\QA Tranining\obj\Debug\net5.0\QA Tranining.pdb
+C:\Users\DELL\source\repos\QA Tranining\QA Tranining\obj\Debug\net5.0\QA Tranining.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\QA Tranining\QA Tranining\bin\Debug\net5.0\QA Tranining.exe
+C:\Users\DELL\source\repos\QA Tranining\QA Tranining\bin\Debug\net5.0\QA Tranining.runtimeconfig.json
+C:\Users\DELL\source\repos\QA Tranining\QA Tranining\bin\Debug\net5.0\QA Tranining.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\QA Tranining\QA Tranining\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\DELL\source\repos\QA Tranining\QA Tranining\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\DELL\source\repos\QA Tranining\QA Tranining\bin\Debug\net5.0\WebDriver.Support.dll
+C:\Users\DELL\source\repos\QA Tranining\QA Tranining\bin\Debug\net5.0\WebDriver.dll
+C:\Users\DELL\source\repos\QA Tranining\QA Tranining\obj\Debug\net5.0\QA Tranining.csproj.CopyComplete
+C:\Users\DELL\source\repos\QA Tranining\QA Tranining\obj\Debug\net5.0\QA Tranining.genruntimeconfig.cache
